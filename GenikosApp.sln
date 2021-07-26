@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenikosApp", "GenikosApp.csproj", "{7FC0ED75-A024-48F3-A707-037DC9D4F678}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "GenikosAppDB", "..\GenikosAppDB\GenikosAppDB.sqlproj", "{AA1A3B7F-C118-423C-92C6-D76D94971DCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FC0ED75-A024-48F3-A707-037DC9D4F678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FC0ED75-A024-48F3-A707-037DC9D4F678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FC0ED75-A024-48F3-A707-037DC9D4F678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FC0ED75-A024-48F3-A707-037DC9D4F678}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA1A3B7F-C118-423C-92C6-D76D94971DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA1A3B7F-C118-423C-92C6-D76D94971DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA1A3B7F-C118-423C-92C6-D76D94971DCF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AA1A3B7F-C118-423C-92C6-D76D94971DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA1A3B7F-C118-423C-92C6-D76D94971DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA1A3B7F-C118-423C-92C6-D76D94971DCF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {281DAD68-C7D9-4978-AD37-5D28ED4AD66D}
+	EndGlobalSection
+EndGlobal
